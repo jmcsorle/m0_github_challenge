@@ -13,3 +13,5 @@ Describe in your own words how to establish a connection between a local reposit
 1. In Terminal type git push -u origin
 ## Second Set of Changes
 Here is an additional change.
+## Third Set of Changes
+Here is a third set of changes.
