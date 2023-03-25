@@ -11,3 +11,5 @@ Describe in your own words how to establish a connection between a local reposit
 1. In Terminal type git remote add origin <ssh filepath copied from GitHub>
 1. In Terminal type git branch -M main
 1. In Terminal type git push -u origin
+## Second Set of Changes
+Here is an additional change.
